@@ -2,8 +2,8 @@ const playlist = {
   artistName: 'songName'
 }
 
-function updatePlaylist(playlist, artistName, songTitle) {
-  playlist = {
+updatePlaylist(playlist, artistName, songTitle) {
+  return playlist = {
     artistName: songTitle
   }
 }
