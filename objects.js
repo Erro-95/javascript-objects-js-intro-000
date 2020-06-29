@@ -1,0 +1,3 @@
+const playlist = {
+  artistName: 'songName'
+}
