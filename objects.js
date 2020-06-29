@@ -3,7 +3,7 @@ const playlist = {
 }
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  return playlist = {
+  playlist = {
     artistName: songTitle
   }
 }
